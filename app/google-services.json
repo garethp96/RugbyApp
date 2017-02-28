@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137714219363",
+    "firebase_url": "https://rugbyapp-2f154.firebaseio.com",
+    "project_id": "rugbyapp-2f154",
+    "storage_bucket": "rugbyapp-2f154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137714219363:android:f00c6c3911abe63a",
+        "android_client_info": {
+          "package_name": "com.gui.garethpower.rugbyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137714219363-5no6t82ih3b9gega8r4lp1997cuspruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeov1V35WEj2cY92AF-FVM8l5i_EiyMkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

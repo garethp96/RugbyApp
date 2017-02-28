@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RugbyApp</string>
+    <string name="title_activity_main_content">MainContentActivity</string>
+    <string name="action_settings">Log Out</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_profile">RugbyApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
